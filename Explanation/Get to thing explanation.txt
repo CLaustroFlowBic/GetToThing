@@ -1,0 +1,26 @@
+YOu move around a screen which has walls all around it 
+
+you are a square and you want to get to the area
+
+Main menu 
+
+Start 
+exit
+
+3 levels
+
+1.
+
+move to the other side of the screen 
+
+2.
+
+move around a wall
+
+3. 
+
+move through a tunnel to the other side
+
+screen size default whatever 640 x 480 or some shit
+
+eveytime you win theres a graphic and a sound that plays
