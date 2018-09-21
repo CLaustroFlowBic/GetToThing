@@ -105,7 +105,7 @@ namespace GetToThing
 
 
 
-            int speed = 6;
+            int speed = 6;//ass
             
             if (state.IsKeyDown(Keys.Right) && player_Position.X < 750)
                 player_Position.X += speed;
